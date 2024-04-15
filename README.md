@@ -7,3 +7,12 @@ https://restcountries.com/v3.1/all?fields=name,ccn3
 Use the `ccn3` as id and `name.common` as name.
 
 When the 'Scroll to Japan' button is clicked the browser should scroll down to that country in the list.
+
+## Installation
+
+Requires Node.js 18+ installed.
+
+```
+npm install
+npm run dev
+```
